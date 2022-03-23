@@ -9,6 +9,7 @@ using Xunit;
 
 namespace UnitTestSample.MovieContext
 {
+    // Integration Test olduğu için EF Inmemory paket indirdik.
     public class MovieContextTest
     {
 
